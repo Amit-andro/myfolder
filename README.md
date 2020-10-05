@@ -1,2 +1,2 @@
 # myfolder
-for projects
+for project only
